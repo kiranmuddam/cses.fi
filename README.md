@@ -26,8 +26,8 @@ The problem set has been designed so that you can use it together with recent co
 
 |  #  | Title           |  Solution         | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | ------------- |--------------|-----|
-1 | [Weird Algorithm](https://cses.fi/problemset/task/1068) | [C++](./1068.cpp)   | Easy         | Introductory||
-2 | [Missing Number](https://cses.fi/problemset/task/1083) | [C++](./1083.cpp)   | Easy         | Introductory||
+1 | [Weird Algorithm](https://cses.fi/problemset/task/1068) | [C++](./problemset/1068.cpp)   | Easy         | Introductory||
+2 | [Missing Number](https://cses.fi/problemset/task/1083) | [C++](./problemset/1083.cpp)   | Easy         | Introductory||
 3 | [Repititions](https://cses.fi/problemset/task/1069) | [C++](./1069.cpp)   | Easy         | Introductory||
 4 | [Increasing Array](https://cses.fi/problemset/task/1094) | [C++](./1094.cpp)   | Easy         | Introductory||
 5 | [Permutations](https://cses.fi/problemset/task/1070) | [C++](./1070.cpp)   | Easy         | Introductory||

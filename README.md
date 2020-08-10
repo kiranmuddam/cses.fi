@@ -18,6 +18,18 @@ Books
 
 The problem set has been designed so that you can use it together with recent competitive programming books, listed here. The books discuss techniques and ideas that are useful when solving the problems.
 
+#### Author : Kiran Babu Muddam 
+#### LinkedIn : [https://www.linkedin.com/in/kiranbabumuddam/](https://www.linkedin.com/in/kiranbabumuddam/)
 
-## Link : https://cses.fi/problemset/
+## CSES Problem Set : [https://cses.fi/problemset/](https://cses.fi/problemset/)
+
+
+|  #  | Title           |  Solution         | Difficulty    | Tag          | Note| 
+|-----|---------------- | --------------- | ------------- |--------------|-----|
+1 | [Weird Algorithm](https://cses.fi/problemset/task/1068) | [C++](./1068.cpp)   | Easy         | Introductory||
+2 | [Missing Number](https://cses.fi/problemset/task/1083) | [C++](./1083.cpp)   | Easy         | Introductory||
+3 | [Repititions](https://cses.fi/problemset/task/1069) | [C++](./1069.cpp)   | Easy         | Introductory||
+4 | [Increasing Array](https://cses.fi/problemset/task/1094) | [C++](./1094.cpp)   | Easy         | Introductory||
+5 | [Permutations](https://cses.fi/problemset/task/1070) | [C++](./1070.cpp)   | Easy         | Introductory||
+
 

@@ -31,3 +31,6 @@ The problem set has been designed so that you can use it together with recent co
 3 | [Repititions](https://cses.fi/problemset/task/1069) | [C++](./problemset/1069.cpp)   | Easy         | Introductory||
 4 | [Increasing Array](https://cses.fi/problemset/task/1094) | [C++](./problemset/1094.cpp)   | Easy         | Introductory||
 5 | [Permutations](https://cses.fi/problemset/task/1070) | [C++](./problemset/1070.cpp)   | Easy         | Introductory||
+6 | [Number Spiral](https://cses.fi/problemset/task/1071) | [C++](./problemset/1071.cpp)   | Easy         | Introductory||
+7 | [Two Knights](https://cses.fi/problemset/task/1072) | [C++](./problemset/1072.cpp)   | Easy         | Introductory||
+8 | [Two Sets](https://cses.fi/problemset/task/1092) | [C++](./problemset/1092.cpp)   | Easy         | Introductory||
